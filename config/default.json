@@ -1,0 +1,13 @@
+{
+  "app": {
+    "name": "Dixit",
+    "host": "http://localhost",
+    "port": 3001,
+    "server": "local"
+  },
+  "db": {
+    "name": "transaction",
+    "host": "localhost",
+    "port": 27017
+  }
+}
